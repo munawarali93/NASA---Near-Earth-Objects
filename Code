@@ -1,0 +1,7 @@
+echo "# NASA-Near-Earth-Objects" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/munawarali93/NASA-Near-Earth-Objects.git
+git push -u origin main
